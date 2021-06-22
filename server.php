@@ -119,7 +119,7 @@ if(isset($_POST['sendmail'])) {
 
             //Recipients
             $mail->setFrom('prescription@gmail.com', 'bot');
-            $mail->addAddress('segunolarewaju5@gmail.com', 'User');     // Add a recipient
+            $mail->addAddress('test123@gmail.com', 'User');     // Add a recipient
                         // Name is optional
         
 
